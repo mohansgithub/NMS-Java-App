@@ -32,7 +32,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="home"><b>DevOps Learning </b> Portal 2.0</a>
+    <a href="home"><b>SAIBALAJI DevOps Learning Institue </b> Portal 2.0</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
